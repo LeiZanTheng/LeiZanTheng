@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm LeiZanTheng</h1>
-<h3 align="center">A random programmer who love making games and competitive programming</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=3000&background=2C141400&center=true&vCenter=true&multiline=true&width=1100&height=57&lines=A+random+programmer+who+love+making++games+and+competitive+programming" alt="Typing SVG" /></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leizanthengvnguy&label=Profile%20views&color=0e75b6&style=flat" alt="leizanthengvnguy" /> </p>
 

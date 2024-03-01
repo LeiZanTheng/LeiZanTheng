@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++, Python, GDScript and also C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LeiZanThengVNGuy/LeiZanThengVNGuy](https://github.com/LeiZanThengVNGuy/LeiZanThengVNGuy)
+- 👨‍💻 All of my projects are available at [https://github.com/LeiZanTheng](https://github.com/LeiZanTheng)
 
 - 💬 Ask me about **How to be handsome**
 

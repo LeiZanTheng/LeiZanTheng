@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leizanthengvnguy&label=Profile%20views&color=0e75b6&style=flat" alt="leizanthengvnguy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leizanthengvnguy" alt="leizanthengvnguy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leizantheng" alt="leizanthengvnguy" /></a> </p>
 
 - 🌱 I’m currently learning **C++, Python, GDScript and also C#**
 

@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leizantheng" alt="leizantheng" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Python, GDScript and also C#**
+- 🌱 I’m currently learning **C++, Python and Godot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeiZanTheng](https://github.com/LeiZanTheng)
 

@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm LeiZanTheng</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=3000&background=2C141400&center=true&vCenter=true&multiline=true&width=1100&height=57&lines=A+random+guy+who+love+making++games" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=3000&background=2C141400&center=true&vCenter=true&multiline=true&width=1100&height=57&lines=A+random+guy+who+loves+making++games" alt="Typing SVG" /></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leizantheng&label=Profile%20views&color=0e75b6&style=flat" alt="leizantheng" /> </p>

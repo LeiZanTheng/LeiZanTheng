@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/le van thang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="le van thang" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vietnammc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vietnammc" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@LZTDepZai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vietnammc" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/leizantheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leizantheng" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leizantheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leizantheng" height="30" width="40" /></a>
 </p>
